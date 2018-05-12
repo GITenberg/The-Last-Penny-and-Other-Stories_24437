@@ -1,0 +1,42 @@
+_repo: The-Last-Penny-and-Other-Stories_24437
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Croome, William
+    alias: Croome, W. (William)
+    birthdate: 1790
+    deathdate: 1860
+    gutenberg_agent_id: '26491'
+    url: http://www.gutenberg.org/2009/agents/26491
+covers:
+- cover_type: archival
+  image_path: 24437-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Uncle Herbert
+    - Herbert, Uncle
+    - Arthur, Timothy Shay
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2008-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: 'The last penny -- How to attain true greatness -- The fair courier:
+  a story of the American Revolution -- The April fool -- A way to be happy.'
+title: The Last Penny and Other Stories
+url: http://www.gutenberg.org/ebooks/24437
